@@ -19,4 +19,3 @@ def get_home_data():
 def get_page1_data():
     # Função de exemplo para retornar dados do modelo para a página 1
     return 'dados da página 1'
-
